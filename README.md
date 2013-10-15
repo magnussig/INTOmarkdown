@@ -1,7 +1,13 @@
 #Open Source
 
 Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
-...Medlimir hops:
+
+1. First ordered list item
+2. Another item
+⋅⋅* Unordered sub-list. 
+1. Actual numbers don't matter, just that it's a number
+⋅⋅1. Ordered sub-list
+4. And another item....Medlimir hops:
 
 1.Medlimir:
 ⋅⋅1.Magnus Sigurdarson
