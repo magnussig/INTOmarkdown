@@ -1,7 +1,11 @@
 #Open Source
 
 Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
+...Medlimir hops:
 
+1.Medlimir:
+⋅⋅1.Magnus Sigurdarson
+⋅⋅1.Arni Benedikt Arnason
 ## 1. Linux uppsetning
 
 Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
