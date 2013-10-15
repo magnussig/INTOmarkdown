@@ -24,13 +24,13 @@ Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópme�
 
 [Okkar utgafa af NIM:](https://github.com/magnussig/INTOPrufa/blob/master/NIM.cpp)
 
-Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
 
 ## 4. Uppsettur hugbúnaður
 
 Openoffice pakkinn:
 
-Leyfi: [Leyfi](http://www.openoffice.org/license.html)
+[Leyfi](http://www.openoffice.org/license.html)
+
 [Source code:](http://www.openoffice.org/download/other.html#source)
 
 ## 5. Unnið með Git (2. hluti)
