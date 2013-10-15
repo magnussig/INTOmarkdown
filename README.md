@@ -1,17 +1,10 @@
 #Open Source
+Medlimir hops:
 
-Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
-
-1. First ordered list item
-2. Another item
-⋅⋅* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. And another item....Medlimir hops:
-
-1.Medlimir:
-⋅⋅1.Magnus Sigurdarson
-⋅⋅1.Arni Benedikt Arnason
+1. Magnus Sigurdarson
+..1. 1.ars nemi i Hugbunadarverkfraedi
+2. Arni Benedikt Arnason 
+..2. 1.ars nemi i Hugbunadarverkfraedi
 ## 1. Linux uppsetning
 
 Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
